@@ -34,7 +34,7 @@
                                        HeightRequest="125"
                                     />
                                 <VerticalStackLayout Grid.Column="1"
-                                                     Padding="10"
+                                                     Padding="12"
                                                      VerticalOptions="Center">
                                     <Label Text="{Binding Name}"
                                            />
